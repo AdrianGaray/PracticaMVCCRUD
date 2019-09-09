@@ -1,0 +1,13 @@
+Repositorio creado desde Git Hub
+Ir al Git Bash
+git ini
+git add.
+git remote add origin https://github.com/AdrianGaray/PracticaMVCCRUD.git
+git commit -m "Commit general"
+git push -u origin master
+
+Para eliminar del Repositorio
+
+git rm -r --cached nombre_directorio
+git commit -m 'Eliminados archivos no deseados'
+git push o git push origin master
