@@ -1,6 +1,6 @@
-# Practica de Desarrollo MVC 5
+# Practica de Desarrollo MVC 5 - EF6
 
-#### CRUD MCV5 -EF6:
+#### CRUD MVC5 - EF6:
 
 - Models: **Product - ManageViewModels - IdentityModels**
 - Controllers: **ProductController - ManageController - AccountController**
