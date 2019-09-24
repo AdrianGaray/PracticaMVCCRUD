@@ -12,6 +12,7 @@ namespace MVC_CRUD.Controllers
 {
     public class ProductController : Controller
     {
+        // definimos un atributo privado, donde representa la base de datos.
         private StoreContext db = new StoreContext();
         // GET: Product
         public ActionResult Index()
