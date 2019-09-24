@@ -1,7 +1,5 @@
 # Practica de Desarrollo MVC 5
 
----
-
 #### CRUD MCV5 -EF6:
 
 - Models: **Product - ManageViewModels - IdentityModels**
